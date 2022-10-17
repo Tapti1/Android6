@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application5_1</string>
+    <string name="Push">Добавить Запись</string>
+    <string name="Get">Получить по айди</string>
+    <string name="Save">Сохранить</string>
+    <string name="Dec">Введите описание</string>
+</resources>
